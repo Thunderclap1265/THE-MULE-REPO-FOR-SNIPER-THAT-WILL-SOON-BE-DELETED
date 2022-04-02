@@ -3,11 +3,6 @@
 # Case is not important for ckey.                                    #
 # Case IS important for the rank. However punctuation/spaces are not #
 # Ranks can be anything defined in admin_ranks.txt           ~Carn   #
-#####################################################################
+######################################################################
 thespire - Host 
-Thunderclap1265 - Host 
-
-
-
-
-
+thunderclap1265 - Host 
