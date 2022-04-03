@@ -964,4 +964,5 @@
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
 #include "maps\reichstag\reichstag.dmm"
+#include "maps\reichstag\backup\reichstag.dmm"
 // END_INCLUDE
