@@ -4,5 +4,5 @@
 # Case IS important for the rank. However punctuation/spaces are not #
 # Ranks can be anything defined in admin_ranks.txt           ~Carn   #
 ######################################################################
-thespire - Senator
+The spire - Senator
 Thunderclap1265 - Senator 
